@@ -1,0 +1,281 @@
+Year,Location,Education,Population,Value
+2018,Alberta,Less than high school,Non-aboriginal population,8
+2018,Alberta,High school,Non-aboriginal population,24
+2018,Alberta,Trades,Non-aboriginal population,13
+2018,Alberta,College,Non-aboriginal population,24
+2018,Alberta,University,Non-aboriginal population,32
+2018,Alberta,Less than high school,Off-reserve Aboriginal  population,16
+2018,Alberta,High school,Off-reserve Aboriginal  population,33
+2018,Alberta,Trades,Off-reserve Aboriginal  population,17
+2018,Alberta,College,Off-reserve Aboriginal  population,24
+2018,Alberta,University,Off-reserve Aboriginal  population,11
+2018,British Columbia,Less than high school,Non-aboriginal population,6
+2018,British Columbia,High school,Non-aboriginal population,26
+2018,British Columbia,Trades,Non-aboriginal population,11
+2018,British Columbia,College,Non-aboriginal population,24
+2018,British Columbia,University,Non-aboriginal population,33
+2018,British Columbia,Less than high school,Off-reserve Aboriginal  population,15
+2018,British Columbia,High school,Off-reserve Aboriginal  population,31
+2018,British Columbia,Trades,Off-reserve Aboriginal  population,16
+2018,British Columbia,College,Off-reserve Aboriginal  population,25
+2018,British Columbia,University,Off-reserve Aboriginal  population,12
+2018,Canada,Less than high school,Non-aboriginal population,8
+2018,Canada,High school,Non-aboriginal population,23
+2018,Canada,Trades,Non-aboriginal population,10
+2018,Canada,College,Non-aboriginal population,26
+2018,Canada,University,Non-aboriginal population,32
+2018,Canada,Less than high school,Off-reserve Aboriginal  population,17
+2018,Canada,High school,Off-reserve Aboriginal  population,29
+2018,Canada,Trades,Off-reserve Aboriginal  population,14
+2018,Canada,College,Off-reserve Aboriginal  population,27
+2018,Canada,University,Off-reserve Aboriginal  population,13
+2018,Manitoba,Less than high school,Non-aboriginal population,9
+2018,Manitoba,High school,Non-aboriginal population,29
+2018,Manitoba,Trades,Non-aboriginal population,8
+2018,Manitoba,College,Non-aboriginal population,25
+2018,Manitoba,University,Non-aboriginal population,30
+2018,Manitoba,Less than high school,Off-reserve Aboriginal  population,19
+2018,Manitoba,High school,Off-reserve Aboriginal  population,32
+2018,Manitoba,Trades,Off-reserve Aboriginal  population,11
+2018,Manitoba,College,Off-reserve Aboriginal  population,26
+2018,Manitoba,University,Off-reserve Aboriginal  population,13
+2018,New Brunswick,Less than high school,Non-aboriginal population,11
+2018,New Brunswick,High school,Non-aboriginal population,27
+2018,New Brunswick,Trades,Non-aboriginal population,7
+2018,New Brunswick,College,Non-aboriginal population,31
+2018,New Brunswick,University,Non-aboriginal population,23
+2018,New Brunswick,Less than high school,Off-reserve Aboriginal  population,18
+2018,New Brunswick,High school,Off-reserve Aboriginal  population,24
+2018,New Brunswick,Trades,Off-reserve Aboriginal  population,12
+2018,New Brunswick,College,Off-reserve Aboriginal  population,37
+2018,New Brunswick,University,Off-reserve Aboriginal  population,10
+2018,Newfoundland and Labrador,Less than high school,Non-aboriginal population,13
+2018,Newfoundland and Labrador,High school,Non-aboriginal population,21
+2018,Newfoundland and Labrador,Trades,Non-aboriginal population,17
+2018,Newfoundland and Labrador,College,Non-aboriginal population,30
+2018,Newfoundland and Labrador,University,Non-aboriginal population,20
+2018,Newfoundland and Labrador,Less than high school,Off-reserve Aboriginal  population,16
+2018,Newfoundland and Labrador,High school,Off-reserve Aboriginal  population,19
+2018,Newfoundland and Labrador,Trades,Off-reserve Aboriginal  population,14
+2018,Newfoundland and Labrador,College,Off-reserve Aboriginal  population,36
+2018,Newfoundland and Labrador,University,Off-reserve Aboriginal  population,15
+2018,Northwest Territories,Less than high school,Non-aboriginal population,4
+2018,Northwest Territories,High school,Non-aboriginal population,20
+2018,Northwest Territories,Trades,Non-aboriginal population,11
+2018,Northwest Territories,College,Non-aboriginal population,26
+2018,Northwest Territories,University,Non-aboriginal population,39
+2018,Northwest Territories,Less than high school,Off-reserve Aboriginal  population,38
+2018,Northwest Territories,High school,Off-reserve Aboriginal  population,26
+2018,Northwest Territories,Trades,Off-reserve Aboriginal  population,12
+2018,Northwest Territories,College,Off-reserve Aboriginal  population,19
+2018,Northwest Territories,University,Off-reserve Aboriginal  population,5
+2018,Nova Scotia,Less than high school,Non-aboriginal population,9
+2018,Nova Scotia,High school,Non-aboriginal population,22
+2018,Nova Scotia,Trades,Non-aboriginal population,13
+2018,Nova Scotia,College,Non-aboriginal population,26
+2018,Nova Scotia,University,Non-aboriginal population,30
+2018,Nova Scotia,Less than high school,Off-reserve Aboriginal  population,19
+2018,Nova Scotia,High school,Off-reserve Aboriginal  population,26
+2018,Nova Scotia,Trades,Off-reserve Aboriginal  population,16
+2018,Nova Scotia,College,Off-reserve Aboriginal  population,22
+2018,Nova Scotia,University,Off-reserve Aboriginal  population,17
+2018,Nunavut,Less than high school,Non-aboriginal population,0
+2018,Nunavut,High school,Non-aboriginal population,12
+2018,Nunavut,Trades,Non-aboriginal population,8
+2018,Nunavut,College,Non-aboriginal population,23
+2018,Nunavut,University,Non-aboriginal population,54
+2018,Nunavut,Less than high school,Off-reserve Aboriginal  population,54
+2018,Nunavut,High school,Off-reserve Aboriginal  population,15
+2018,Nunavut,Trades,Off-reserve Aboriginal  population,10
+2018,Nunavut,College,Off-reserve Aboriginal  population,17
+2018,Nunavut,University,Off-reserve Aboriginal  population,4
+2018,Ontario,Less than high school,Non-aboriginal population,7
+2018,Ontario,High school,Non-aboriginal population,24
+2018,Ontario,Trades,Non-aboriginal population,5
+2018,Ontario,College,Non-aboriginal population,28
+2018,Ontario,University,Non-aboriginal population,36
+2018,Ontario,Less than high school,Off-reserve Aboriginal  population,17
+2018,Ontario,High school,Off-reserve Aboriginal  population,26
+2018,Ontario,Trades,Off-reserve Aboriginal  population,9
+2018,Ontario,College,Off-reserve Aboriginal  population,36
+2018,Ontario,University,Off-reserve Aboriginal  population,12
+2018,Prince Edward Island,Less than high school,Non-aboriginal population,11
+2018,Prince Edward Island,High school,Non-aboriginal population,25
+2018,Prince Edward Island,Trades,Non-aboriginal population,8
+2018,Prince Edward Island,College,Non-aboriginal population,29
+2018,Prince Edward Island,University,Non-aboriginal population,27
+2018,Prince Edward Island,Less than high school,Off-reserve Aboriginal  population,22
+2018,Prince Edward Island,High school,Off-reserve Aboriginal  population,33
+2018,Prince Edward Island,Trades,Off-reserve Aboriginal  population,0
+2018,Prince Edward Island,College,Off-reserve Aboriginal  population,29
+2018,Prince Edward Island,University,Off-reserve Aboriginal  population,0
+2018,Quebec,Less than high school,Non-aboriginal population,11
+2018,Quebec,High school,Non-aboriginal population,18
+2018,Quebec,Trades,Non-aboriginal population,17
+2018,Quebec,College,Non-aboriginal population,25
+2018,Quebec,University,Non-aboriginal population,29
+2018,Quebec,Less than high school,Off-reserve Aboriginal  population,18
+2018,Quebec,High school,Off-reserve Aboriginal  population,23
+2018,Quebec,Trades,Off-reserve Aboriginal  population,21
+2018,Quebec,College,Off-reserve Aboriginal  population,20
+2018,Quebec,University,Off-reserve Aboriginal  population,18
+2018,Saskatchewan,Less than high school,Non-aboriginal population,9
+2018,Saskatchewan,High school,Non-aboriginal population,29
+2018,Saskatchewan,Trades,Non-aboriginal population,17
+2018,Saskatchewan,College,Non-aboriginal population,19
+2018,Saskatchewan,University,Non-aboriginal population,27
+2018,Saskatchewan,Less than high school,Off-reserve Aboriginal  population,20
+2018,Saskatchewan,High school,Off-reserve Aboriginal  population,34
+2018,Saskatchewan,Trades,Off-reserve Aboriginal  population,17
+2018,Saskatchewan,College,Off-reserve Aboriginal  population,18
+2018,Saskatchewan,University,Off-reserve Aboriginal  population,12
+2018,Yukon,Less than high school,Non-aboriginal population,6
+2018,Yukon,High school,Non-aboriginal population,24
+2018,Yukon,Trades,Non-aboriginal population,13
+2018,Yukon,College,Non-aboriginal population,21
+2018,Yukon,University,Non-aboriginal population,36
+2018,Yukon,Less than high school,Off-reserve Aboriginal  population,15
+2018,Yukon,High school,Off-reserve Aboriginal  population,31
+2018,Yukon,Trades,Off-reserve Aboriginal  population,18
+2018,Yukon,College,Off-reserve Aboriginal  population,22
+2018,Yukon,University,Off-reserve Aboriginal  population,14
+2019,Alberta,Less than high school,Non-aboriginal population,8
+2019,Alberta,High school,Non-aboriginal population,23
+2019,Alberta,Trades,Non-aboriginal population,13
+2019,Alberta,College,Non-aboriginal population,24
+2019,Alberta,University,Non-aboriginal population,33
+2019,Alberta,Less than high school,Off-reserve Aboriginal  population,17
+2019,Alberta,High school,Off-reserve Aboriginal  population,32
+2019,Alberta,Trades,Off-reserve Aboriginal  population,16
+2019,Alberta,College,Off-reserve Aboriginal  population,23
+2019,Alberta,University,Off-reserve Aboriginal  population,12
+2019,British Columbia,Less than high school,Non-aboriginal population,6
+2019,British Columbia,High school,Non-aboriginal population,24
+2019,British Columbia,Trades,Non-aboriginal population,11
+2019,British Columbia,College,Non-aboriginal population,24
+2019,British Columbia,University,Non-aboriginal population,35
+2019,British Columbia,Less than high school,Off-reserve Aboriginal  population,16
+2019,British Columbia,High school,Off-reserve Aboriginal  population,32
+2019,British Columbia,Trades,Off-reserve Aboriginal  population,17
+2019,British Columbia,College,Off-reserve Aboriginal  population,24
+2019,British Columbia,University,Off-reserve Aboriginal  population,11
+2019,Canada,Less than high school,Non-aboriginal population,8
+2019,Canada,High school,Non-aboriginal population,22
+2019,Canada,Trades,Non-aboriginal population,10
+2019,Canada,College,Non-aboriginal population,26
+2019,Canada,University,Non-aboriginal population,34
+2019,Canada,Less than high school,Off-reserve Aboriginal  population,18
+2019,Canada,High school,Off-reserve Aboriginal  population,29
+2019,Canada,Trades,Off-reserve Aboriginal  population,14
+2019,Canada,College,Off-reserve Aboriginal  population,26
+2019,Canada,University,Off-reserve Aboriginal  population,14
+2019,Manitoba,Less than high school,Non-aboriginal population,10
+2019,Manitoba,High school,Non-aboriginal population,27
+2019,Manitoba,Trades,Non-aboriginal population,7
+2019,Manitoba,College,Non-aboriginal population,25
+2019,Manitoba,University,Non-aboriginal population,31
+2019,Manitoba,Less than high school,Off-reserve Aboriginal  population,19
+2019,Manitoba,High school,Off-reserve Aboriginal  population,34
+2019,Manitoba,Trades,Off-reserve Aboriginal  population,10
+2019,Manitoba,College,Off-reserve Aboriginal  population,25
+2019,Manitoba,University,Off-reserve Aboriginal  population,13
+2019,New Brunswick,Less than high school,Non-aboriginal population,11
+2019,New Brunswick,High school,Non-aboriginal population,27
+2019,New Brunswick,Trades,Non-aboriginal population,8
+2019,New Brunswick,College,Non-aboriginal population,30
+2019,New Brunswick,University,Non-aboriginal population,24
+2019,New Brunswick,Less than high school,Off-reserve Aboriginal  population,16
+2019,New Brunswick,High school,Off-reserve Aboriginal  population,27
+2019,New Brunswick,Trades,Off-reserve Aboriginal  population,10
+2019,New Brunswick,College,Off-reserve Aboriginal  population,34
+2019,New Brunswick,University,Off-reserve Aboriginal  population,13
+2019,Newfoundland and Labrador,Less than high school,Non-aboriginal population,11
+2019,Newfoundland and Labrador,High school,Non-aboriginal population,21
+2019,Newfoundland and Labrador,Trades,Non-aboriginal population,17
+2019,Newfoundland and Labrador,College,Non-aboriginal population,30
+2019,Newfoundland and Labrador,University,Non-aboriginal population,21
+2019,Newfoundland and Labrador,Less than high school,Off-reserve Aboriginal  population,15
+2019,Newfoundland and Labrador,High school,Off-reserve Aboriginal  population,19
+2019,Newfoundland and Labrador,Trades,Off-reserve Aboriginal  population,15
+2019,Newfoundland and Labrador,College,Off-reserve Aboriginal  population,37
+2019,Newfoundland and Labrador,University,Off-reserve Aboriginal  population,14
+2019,Northwest Territories,Less than high school,Non-aboriginal population,3
+2019,Northwest Territories,High school,Non-aboriginal population,23
+2019,Northwest Territories,Trades,Non-aboriginal population,10
+2019,Northwest Territories,College,Non-aboriginal population,26
+2019,Northwest Territories,University,Non-aboriginal population,38
+2019,Northwest Territories,Less than high school,Off-reserve Aboriginal  population,35
+2019,Northwest Territories,High school,Off-reserve Aboriginal  population,25
+2019,Northwest Territories,Trades,Off-reserve Aboriginal  population,13
+2019,Northwest Territories,College,Off-reserve Aboriginal  population,21
+2019,Northwest Territories,University,Off-reserve Aboriginal  population,5
+2019,Nova Scotia,Less than high school,Non-aboriginal population,9
+2019,Nova Scotia,High school,Non-aboriginal population,23
+2019,Nova Scotia,Trades,Non-aboriginal population,12
+2019,Nova Scotia,College,Non-aboriginal population,25
+2019,Nova Scotia,University,Non-aboriginal population,30
+2019,Nova Scotia,Less than high school,Off-reserve Aboriginal  population,11
+2019,Nova Scotia,High school,Off-reserve Aboriginal  population,30
+2019,Nova Scotia,Trades,Off-reserve Aboriginal  population,14
+2019,Nova Scotia,College,Off-reserve Aboriginal  population,24
+2019,Nova Scotia,University,Off-reserve Aboriginal  population,21
+2019,Nunavut,Less than high school,Non-aboriginal population,0
+2019,Nunavut,High school,Non-aboriginal population,13
+2019,Nunavut,Trades,Non-aboriginal population,7
+2019,Nunavut,College,Non-aboriginal population,26
+2019,Nunavut,University,Non-aboriginal population,51
+2019,Nunavut,Less than high school,Off-reserve Aboriginal  population,52
+2019,Nunavut,High school,Off-reserve Aboriginal  population,17
+2019,Nunavut,Trades,Off-reserve Aboriginal  population,8
+2019,Nunavut,College,Off-reserve Aboriginal  population,19
+2019,Nunavut,University,Off-reserve Aboriginal  population,4
+2019,Ontario,Less than high school,Non-aboriginal population,7
+2019,Ontario,High school,Non-aboriginal population,23
+2019,Ontario,Trades,Non-aboriginal population,5
+2019,Ontario,College,Non-aboriginal population,29
+2019,Ontario,University,Non-aboriginal population,37
+2019,Ontario,Less than high school,Off-reserve Aboriginal  population,14
+2019,Ontario,High school,Off-reserve Aboriginal  population,28
+2019,Ontario,Trades,Off-reserve Aboriginal  population,9
+2019,Ontario,College,Off-reserve Aboriginal  population,33
+2019,Ontario,University,Off-reserve Aboriginal  population,16
+2019,Prince Edward Island,Less than high school,Non-aboriginal population,10
+2019,Prince Edward Island,High school,Non-aboriginal population,25
+2019,Prince Edward Island,Trades,Non-aboriginal population,9
+2019,Prince Edward Island,College,Non-aboriginal population,29
+2019,Prince Edward Island,University,Non-aboriginal population,27
+2019,Prince Edward Island,Less than high school,Off-reserve Aboriginal  population,19
+2019,Prince Edward Island,High school,Off-reserve Aboriginal  population,22
+2019,Prince Edward Island,Trades,Off-reserve Aboriginal  population,0
+2019,Prince Edward Island,College,Off-reserve Aboriginal  population,33
+2019,Prince Edward Island,University,Off-reserve Aboriginal  population,24
+2019,Quebec,Less than high school,Non-aboriginal population,10
+2019,Quebec,High school,Non-aboriginal population,17
+2019,Quebec,Trades,Non-aboriginal population,18
+2019,Quebec,College,Non-aboriginal population,25
+2019,Quebec,University,Non-aboriginal population,30
+2019,Quebec,Less than high school,Off-reserve Aboriginal  population,28
+2019,Quebec,High school,Off-reserve Aboriginal  population,15
+2019,Quebec,Trades,Off-reserve Aboriginal  population,24
+2019,Quebec,College,Off-reserve Aboriginal  population,19
+2019,Quebec,University,Off-reserve Aboriginal  population,14
+2019,Saskatchewan,Less than high school,Non-aboriginal population,8
+2019,Saskatchewan,High school,Non-aboriginal population,29
+2019,Saskatchewan,Trades,Non-aboriginal population,16
+2019,Saskatchewan,College,Non-aboriginal population,19
+2019,Saskatchewan,University,Non-aboriginal population,28
+2019,Saskatchewan,Less than high school,Off-reserve Aboriginal  population,20
+2019,Saskatchewan,High school,Off-reserve Aboriginal  population,32
+2019,Saskatchewan,Trades,Off-reserve Aboriginal  population,16
+2019,Saskatchewan,College,Off-reserve Aboriginal  population,18
+2019,Saskatchewan,University,Off-reserve Aboriginal  population,14
+2019,Yukon,Less than high school,Non-aboriginal population,5
+2019,Yukon,High school,Non-aboriginal population,22
+2019,Yukon,Trades,Non-aboriginal population,14
+2019,Yukon,College,Non-aboriginal population,21
+2019,Yukon,University,Non-aboriginal population,37
+2019,Yukon,Less than high school,Off-reserve Aboriginal  population,18
+2019,Yukon,High school,Off-reserve Aboriginal  population,34
+2019,Yukon,Trades,Off-reserve Aboriginal  population,16
+2019,Yukon,College,Off-reserve Aboriginal  population,21
+2019,Yukon,University,Off-reserve Aboriginal  population,11
