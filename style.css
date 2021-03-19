@@ -89,11 +89,11 @@
 }
 
 .bar:hover {
-  fill: #00FECA;
+  fill: #404040;
 }
 
 .arc path:hover{
-  fill: #00FECA;
+  fill: #404040;
 }
 
 .content-left {
