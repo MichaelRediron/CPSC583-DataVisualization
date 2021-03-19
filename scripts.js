@@ -88,7 +88,7 @@
         g.append("g")
         .attr("transform", "translate(0," + height + ")")
         .call(d3.axisBottom(xScale))
-        .attr("font-size", "13px");
+        .attr("font-size", "12px");
 
         //create and position y axis
         g.append("g")
@@ -152,7 +152,7 @@
         g.append("g")
         .attr("transform", "translate(0," + height + ")")
         .call(d3.axisBottom(xScale))
-        .attr("font-size", "13px");
+        .attr("font-size", "12px");
 
         g.append("g")
         .call(d3.axisLeft(yScale).tickFormat(function(d){
