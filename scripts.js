@@ -88,7 +88,7 @@
         g.append("g")
         .attr("transform", "translate(0," + height + ")")
         .call(d3.axisBottom(xScale))
-        .attr("font-size", "14px");
+        .attr("font-size", "13px");
 
         //create and position y axis
         g.append("g")
@@ -102,7 +102,7 @@
          .attr("x", -120)
          .attr("dy", "-50px")
          .attr("fill", "black")
-         .attr("font-size", "13px")
+         .attr("font-size", "14px")
          .text("Percent %");
 
          //create graph
@@ -152,7 +152,7 @@
         g.append("g")
         .attr("transform", "translate(0," + height + ")")
         .call(d3.axisBottom(xScale))
-        .attr("font-size", "14px");
+        .attr("font-size", "13px");
 
         g.append("g")
         .call(d3.axisLeft(yScale).tickFormat(function(d){
@@ -164,7 +164,7 @@
         .attr("x", -120)
         .attr("dy", "-50px")
         .attr("fill", "black")
-        .attr("font-size", "13px")
+        .attr("font-size", "14px")
         .text("Percent %");
 
         g.selectAll(".bar")
