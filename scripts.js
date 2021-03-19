@@ -102,7 +102,7 @@
          .attr("x", -120)
          .attr("dy", "-50px")
          .attr("fill", "black")
-         .attr("font-size", "14px")
+         .attr("font-size", "13px")
          .text("Percent %");
 
          //create graph
@@ -164,7 +164,7 @@
         .attr("x", -120)
         .attr("dy", "-50px")
         .attr("fill", "black")
-        .attr("font-size", "14px")
+        .attr("font-size", "13px")
         .text("Percent %");
 
         g.selectAll(".bar")
@@ -305,7 +305,7 @@
         legend.append("text")
               .attr("x",48)
               .attr("y",6)
-              .text(function(d){return d.Education});
+              .text(function(d){return d.Education +  ": " + d.Value + "%"});
     }
 
     //controller for top graphs activated on select change
