@@ -62,7 +62,7 @@
         //get width/height of graph container and add some room for margin
         var elem = document.getElementsByClassName("graph-container"),
         properties = window.getComputedStyle(elem[0], null),
-        height = parseFloat(properties.height) - 80,
+        height = parseFloat(properties.height) - 120,
         width = parseFloat(properties.width) - 120,
         //select top graph container to put graph
         svg = d3.select("#top-graph");
@@ -72,7 +72,7 @@
             yScale = d3.scaleLinear().range([height, 0]);
 
         //position graph with some margin to make center, 0.5 of the substracted amount from height/width
-        var g = svg.append("g").attr("transform", "translate(" + 60 + "," + 40 + ")");
+        var g = svg.append("g").attr("transform", "translate(" + 60 + "," + 60 + ")");
 
         //split the graph into indigenous/non-indigenous for desired region
         var region = splitRegion(data,name,year);
@@ -115,7 +115,7 @@
          .attr("width", xScale.bandwidth())
          .attr("height", function(d) {return height - yScale(0);})
          .attr("fill", function(d,i) {return color(i);});
-         
+
          //growing animation
          g.selectAll("rect")
          .transition()
@@ -132,7 +132,7 @@
     {
         var elem = document.getElementsByClassName("graph-container"),
         properties = window.getComputedStyle(elem[1], null),
-        height = parseFloat(properties.height) - 80,
+        height = parseFloat(properties.height) - 120,
         width = parseFloat(properties.width) - 120,
         svg = d3.select("#bottom-graph");
         
@@ -140,7 +140,7 @@
         var xScale = d3.scaleBand().range([0, width]).padding(0.7),
             yScale = d3.scaleLinear().range([height, 0]);
 
-        var g = svg.append("g").attr("transform", "translate(" + 60 + "," + 40 + ")");
+        var g = svg.append("g").attr("transform", "translate(" + 60 + "," + 60 + ")");
         
         var region = splitRegion(data,name,year);
         var regionData = splitPopulation(region,pop);

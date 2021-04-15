@@ -88,14 +88,6 @@
   background-color: #707474;
 }
 
-.bar:hover {
-  fill: #404040;
-}
-
-.arc path:hover{
-  fill: #404040;
-}
-
 .content-left {
   display: flex;
   justify-content: center;
